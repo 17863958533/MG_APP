@@ -1,0 +1,117 @@
+﻿  Generate moc_predefs.h
+  ConfTranIni.cpp
+  ConfigWidget.cpp
+  FtpClient.cpp
+  MyCompress.cpp
+  MyMatrix.cpp
+  QBaseObject.cpp
+  QBatchProcess.cpp
+  QCmpGPST.cpp
+  QKalmanFilter.cpp
+  QNewFunLib.cpp
+  QPPPBackSmooth.cpp
+  QPPPModel.cpp
+  QPseudoSmooth.cpp
+  QRTWrite2File.cpp
+  QReadAnt.cpp
+  QReadClk.cpp
+e:\mygithub\mg_app\qreadant.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QBatchProcess.cpp)
+e:\mygithub\mg_app\qpppbacksmooth.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QPseudoSmooth.cpp)
+e:\mygithub\mg_app\qrtwrite2file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QRTWrite2File.cpp)
+e:\mygithub\mg_app\qcmpgpst.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qnewfunlib.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QNewFunLib.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QReadClk.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QPPPModel.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QReadAnt.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QKalmanFilter.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QPPPBackSmooth.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QRTWrite2File.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QCmpGPST.cpp)
+e:\mygithub\mg_app\ftpclient.cpp(33): warning C4100: “reply”: 未引用的形参
+e:\mygithub\mg_app\mymatrix.cpp(71): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  QReadGPSN.cpp
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QReadGPSN.cpp)
+  QReadOFile.cpp
+e:\mygithub\mg_app\qreadofile.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QReadOFile.cpp)
+  QReadSP3.cpp
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QReadSP3.cpp)
+  QSPPModel.cpp
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QSPPModel.cpp)
+e:\mygithub\mg_app\qcmpgpst.cpp(533): warning C4189: “temp”: 局部变量已初始化但不引用
+  QTideEffect.cpp
+e:\mygithub\mg_app\qtideeffect.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QTideEffect.cpp)
+  QTropDelay.cpp
+e:\mygithub\mg_app\qkalmanfilter.cpp(501): warning C4100: “tPk_1”: 未引用的形参
+e:\mygithub\mg_app\qkalmanfilter.cpp(501): warning C4100: “tXk_1”: 未引用的形参
+e:\mygithub\mg_app\qtropdelay.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QTropDelay.cpp)
+e:\mygithub\mg_app\qrtwrite2file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QPPPModel.cpp)
+e:\mygithub\mg_app\qrtwrite2file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QBatchProcess.cpp)
+e:\mygithub\mg_app\qrtwrite2file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QPPPBackSmooth.cpp)
+  QWindUp.cpp
+e:\mygithub\mg_app\qpppbacksmooth.cpp(166): warning C4305: “=”: 从“__int64”到“int”截断
+e:\mygithub\mg_app\qpppbacksmooth.cpp(166): warning C4309: “=”: 截断常量值
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QWindUp.cpp)
+e:\mygithub\mg_app\qpppbacksmooth.cpp(407): warning C4189: “a”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qpppbacksmooth.cpp(589): warning C4100: “GPS_day”: 未引用的形参
+e:\mygithub\mg_app\qpppbacksmooth.cpp(885): warning C4100: “Z”: 未引用的形参
+e:\mygithub\mg_app\qpppbacksmooth.cpp(912): warning C4189: “v_light”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qpppbacksmooth.cpp(912): warning C4189: “GM”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qpppbacksmooth.cpp(1055): warning C4189: “k1”: 局部变量已初始化但不引用
+  QWrite2File.cpp
+  QualityCtrl.cpp
+e:\mygithub\mg_app\qkalmanfilter.cpp(694): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  SRIFAlgorithm.cpp
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 SRIFAlgorithm.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QualityCtrl.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 QWrite2File.cpp)
+e:\mygithub\mg_app\qrtwrite2file.cpp(43): warning C4715: “QRTWrite2File::setSaveFloder”: 不是所有的控件路径都返回值
+  main.cpp
+e:\mygithub\mg_app\qpppmodel.cpp(587): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qpppmodel.cpp(712): warning C4189: “a”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qpppmodel.cpp(1352): warning C4100: “Z”: 未引用的形参
+e:\mygithub\mg_app\qpppmodel.cpp(1536): warning C4189: “k1”: 局部变量已初始化但不引用
+  mainwindow.cpp
+e:\mygithub\mg_app\mainwindow.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qreadofile.cpp(391): warning C4189: “rec_off”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qreadofile.cpp(452): warning C4189: “rec_off”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qreadgpsn.cpp(352): warning C4189: “cosf”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qreadgpsn.cpp(353): warning C4189: “sinf”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qtideeffect.cpp(363): warning C4100: “pXYZ”: 未引用的形参
+e:\mygithub\mg_app\qtropdelay.cpp(226): warning C4100: “E”: 未引用的形参
+e:\mygithub\mg_app\qtropdelay.cpp(247): warning C4100: “SW”: 未引用的形参
+e:\mygithub\mg_app\qtropdelay.cpp(261): warning C4189: “dltS”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qtropdelay.cpp(276): warning C4100: “it”: 未引用的形参
+e:\mygithub\mg_app\qtropdelay.cpp(288): warning C4100: “it”: 未引用的形参
+e:\mygithub\mg_app\qtropdelay.cpp(702): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+  qcustomplot.cpp
+  qtplot.cpp
+e:\mygithub\mg_app\qualityctrl.cpp(124): warning C4189: “a”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qualityctrl.cpp(151): warning C4189: “a”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qsppmodel.cpp(706): warning C4189: “a”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qsppmodel.cpp(896): warning C4100: “Z”: 未引用的形参
+e:\mygithub\mg_app\qsppmodel.cpp(923): warning C4189: “v_light”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qsppmodel.cpp(923): warning C4189: “GM”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qsppmodel.cpp(1012): warning C4189: “k1”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qrtwrite2file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+e:\mygithub\mg_app\qrtwrite2file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+e:\mygithub\mg_app\qnewfunlib.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+e:\mygithub\mg_app\qtmytest.cpp(94): warning C4189: “a”: 局部变量已初始化但不引用 (编译源文件 main.cpp)
+e:\mygithub\mg_app\qtmytest.cpp(102): warning C4189: “a”: 局部变量已初始化但不引用 (编译源文件 main.cpp)
+e:\mygithub\mg_app\main.cpp(20): warning C4189: “my_year”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\main.cpp(21): warning C4189: “my_moth”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\main.cpp(22): warning C4189: “my_day”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\mainwindow.cpp(21): warning C4100: “e”: 未引用的形参
+  moc_ConfigWidget.cpp
+  moc_FtpClient.cpp
+  moc_mainwindow.cpp
+  moc_qcustomplot.cpp
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_mainwindow.cpp)
+e:\mygithub\mg_app\qrtwrite2file.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc_mainwindow.cpp)
+  MG_APP.vcxproj -> E:\MyGitHub\MG_APP\release\MG_APP.exe

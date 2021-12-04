@@ -1,0 +1,5 @@
+﻿  QualityCtrl.cpp
+e:\mygithub\mg_app\qglobaldef.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\mygithub\mg_app\qualityctrl.cpp(124): warning C4189: “a”: 局部变量已初始化但不引用
+e:\mygithub\mg_app\qualityctrl.cpp(151): warning C4189: “a”: 局部变量已初始化但不引用
+  MG_APP.vcxproj -> E:\MyGitHub\MG_APP\debug\MG_APP.exe
